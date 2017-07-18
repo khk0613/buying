@@ -37,7 +37,7 @@ require_once('_token.php');
         <div class="box-header">
             <h1><a href="#"><img src="images/logo.png" alt="Buying" width=""></a></h1>
             <ul class="ul-nav pc">
-                <li><a href="#">サービス</a></li>
+                <li><a href="#">サービス서비스</a></li>
                 <li><a href="#">費用削減例</a></li>
                 <li><a href="#">会社情報</a></li>
                 <li><a class="btn-inquiry" href="#">問い合わせ</a></li>
